@@ -8,9 +8,6 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:export-filename="SVG_RHEL.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -43,7 +40,7 @@
        fx="678.21277"
        fy="192.43895"
        r="686.14838"
-       gradientTransform="matrix(1.3650318,-0.01733268,0.00641436,0.50516243,-248.80357,106.98128)"
+       gradientTransform="matrix(1,0,0,0.29037585,0,136.55933)"
        gradientUnits="userSpaceOnUse" /><style
        id="style2">.cls-1{fill:#fff;stroke:#d9d9d9;}.cls-2{fill:#e00;}</style></defs><g
      inkscape:label="Layer 1"
